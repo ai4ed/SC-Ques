@@ -17,7 +17,7 @@ This is the code for paper: xxx.
 
 2.1.prepare datasets
 
-download datasets and save in dir "./datasets/SC-Ques"
+download datasets from  https://www.dropbox.com/s/lzznin2hxt6rmft/SC-Ques.tar.gz?dl=0 and save in dir "./datasets/SC-Ques"
 		
 2.2.prepare models
 
