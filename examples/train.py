@@ -34,6 +34,8 @@ elif model_name == "en_bart_large":
     model_dir = "../pretrained_models/en_bart_large/"
 elif model_name == "en_roberta_large":
     model_dir = "../pretrained_models/en_roberta_large/"
+elif model_name == "en_debertav3_large":
+    model_dir = "../pretrained_models/en_debertav3_large/"
 
 else:
     raise ValueError
