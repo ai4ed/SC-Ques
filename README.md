@@ -1,4 +1,4 @@
-This is the code for paper: xxx.
+This is the code for paper: SC-Ques: A Sentence Completion Question Dataset for English as a Second Language Learners.
 
 # 1.prepare env
 1.1.create env
